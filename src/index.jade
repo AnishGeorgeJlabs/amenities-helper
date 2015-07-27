@@ -1,0 +1,28 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width")
+
+    link(href='css/ionic.app.css' rel='stylesheet')
+    link(href='css/style.css' rel='stylesheet')
+
+    // Ionic/Angular
+    script(src='lib/ionic/js/ionic.bundle.js')
+
+    // cordova js, 404 during Dev
+    script(src='cordova.js')
+
+    // Additional Libraries
+    script(src='lib/underscore/underscore-min.js')
+    script(src='lib/moment/min/moment.min.js')
+
+    // Main app js here
+    script(src='js/app.js')
+
+  body(ng-app='aHelper')
+    ion-pane
+      ion-header-bar.bar-stable
+        h1.title Dustbin App
+
+      ion-content
