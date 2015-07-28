@@ -1,352 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6260d7e0-c90a-41ba-9c82-1f0a075f765e" name="Default" comment="missed out www folder">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_loaders.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_split-pane.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/abs-ceil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/abs-floor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/abs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/add-subtract.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/add-subtract.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/aliases.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/templates/amd-named.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/templates/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/angular-animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/angular-animate.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/angular-animate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/angular-sanitize.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/angular-sanitize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/api/angular-ui-router.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/release/angular-ui-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/release/angular-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ar-ma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ar-ma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ar-sa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ar-sa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ar-tn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ar-tn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/as.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/bo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/bo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/bubble.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/check-overflow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/clone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/compare-arrays.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/compare.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/constructor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/constructor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/constructor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/cv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/cv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/date-from-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/day-of-month.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/day-of-week.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/day-of-year.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/de-at.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/de-at.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/defaults.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/deprecate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/diff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/duration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/en-au.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/en-au.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/extend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/format/format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/formats.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/from-anything.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/from-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/from-object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/from-string-and-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/from-string-and-format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/from-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/from.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/fy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/fy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/get-set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/get.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/templates/globals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/has-own-prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/hooks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/hour.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/humanize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/hy-am.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/hy-am.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/invalid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/is-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/is-date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/iso-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/jv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/jv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/lb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/lb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/lists.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/local.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/templates/locale-header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/locale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/locale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/min/locales.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/locales.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/min/locales.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/me.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/me.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/millisecond.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/min-max.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/minute.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/min/moment-with-locales.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/min/moment-with-locales.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/min/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/month.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/mr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/mr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ms-my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ms-my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ne.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ne.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/dist/ng-cordova-mocks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/dist/ng-cordova-mocks.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/dist/ng-cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/dist/ng-cordova.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/nn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/nn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/ordinal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/parsing-flags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/pre-post-format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/duration/prototype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/prototype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/prototype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/quarter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/parse/regex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/relative.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/resolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/second.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/locale/set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/sr-cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/sr-cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/start-end-of.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/stateDirectives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/stateFilters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/views/tab-dustbin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/views/tab-toilet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/views/tabs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/templateFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/templates/test-header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/min/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/timestamp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/timezone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/tl-ph.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/tl-ph.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/to-int.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/to-type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/to.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/parse/token.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/tzl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/tzl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/tzm-latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/tzm-latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/tzm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/tzm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/units.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/urlMatcherFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/urlRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/utc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/uz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/uz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/create/valid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/moment/valid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/viewDirective.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/viewScroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/week-year.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/week.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/units/year.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/lib/utils/zero-fill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/locale/zh-tw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/moment/src/locale/zh-tw.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="6260d7e0-c90a-41ba-9c82-1f0a075f765e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/constants.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templates/side.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/app.coffee" afterPath="$PROJECT_DIR$/src/js/app.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app.js" afterPath="$PROJECT_DIR$/www/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.jade" afterPath="$PROJECT_DIR$/src/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/views/tab-dustbin.html" afterPath="$PROJECT_DIR$/www/templates/views/tab-dustbin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/views/tab-dustbin.jade" afterPath="$PROJECT_DIR$/src/templates/views/tab-dustbin.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/views/tab-toilet.html" afterPath="$PROJECT_DIR$/www/templates/views/tab-toilet.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/views/tab-toilet.jade" afterPath="$PROJECT_DIR$/src/templates/views/tab-toilet.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amenities-helper.iws" />
@@ -368,51 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tab-dustbin.jade" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/views/tab-dustbin.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tab-toilet.jade" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/views/tab-toilet.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.coffee" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/app.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14248021">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jade" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.jade" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.8100264">
+              <caret line="38" column="59" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -422,7 +47,17 @@
         <entry file="file://$PROJECT_DIR$/src/templates/views/tabs.jade">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="side.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/templates/side.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -444,12 +79,15 @@
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/ionic.project" />
         <option value="$PROJECT_DIR$/src/css/style.scss" />
-        <option value="$PROJECT_DIR$/src/templates/views/tab-dustbin.jade" />
-        <option value="$PROJECT_DIR$/src/index.jade" />
-        <option value="$PROJECT_DIR$/src/templates/views/tab-toilet.jade" />
-        <option value="$PROJECT_DIR$/src/js/app.coffee" />
         <option value="$PROJECT_DIR$/src/templates/views/tabs.jade" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/js/constants.coffee" />
+        <option value="$PROJECT_DIR$/src/templates/views/tab-dustbin.jade" />
+        <option value="$PROJECT_DIR$/src/templates/views/tab-toilet.jade" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/src/js/app.coffee" />
+        <option value="$PROJECT_DIR$/src/templates/side.jade" />
+        <option value="$PROJECT_DIR$/src/index.jade" />
       </list>
     </option>
   </component>
@@ -524,6 +162,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -566,7 +206,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amenities-helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amenities-helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amenities-helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amenities-helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -592,28 +268,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amenities-helper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amenities-helper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -625,7 +281,7 @@
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="app.co&#9;FILE&#9;file:///home/jlabs-11/Development/amenities-helper/src/js/app.coffee" />
+    <property name="SearchEverywhereHistoryKey" value="app.co&#9;FILE&#9;file:///home/jlabs-11/Development/amenities-helper/src/js/app.coffee&#10;app.coffe&#9;FILE&#9;file:///home/jlabs-11/Development/amenities-helper/src/js/app.coffee&#10;app.js&#9;FILE&#9;file:///home/jlabs-11/Development/amenities-helper/www/js/app.js&#10;tabs&#9;FILE&#9;file:///home/jlabs-11/Development/amenities-helper/src/templates/views/tabs.jade&#10;side&#9;FILE&#9;file:///home/jlabs-11/Development/amenities-helper/src/templates/side.jade" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -737,21 +393,27 @@
       <option name="project" value="LOCAL" />
       <updated>1438069852054</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="missed out www folder">
+      <created>1438069932968</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1438069932968</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1600" height="904" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21181001" sideWeight="0.50319487" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18100129" sideWeight="0.49492386" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1335045" sideWeight="0.49492386" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32951653" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21181001" sideWeight="0.4968051" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21181001" sideWeight="0.4968051" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20356233" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -787,6 +449,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/templates/views/tab-dustbin.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/app.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -820,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,23 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33245382">
           <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29548565">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40369394">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,30 +519,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21643287">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.jade">
+    <entry file="file://$PROJECT_DIR$/www/templates/views/tabs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/views/tab-dustbin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.0">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/constants.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023746701">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/templates/views/tab-dustbin.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.023746701">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/side.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07387141">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.094986804">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/app.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28496042">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/templates/views/tab-toilet.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.047493402">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -890,23 +603,23 @@
     <entry file="file://$PROJECT_DIR$/src/templates/views/tabs.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/app.coffee">
+    <entry file="file://$PROJECT_DIR$/src/templates/side.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14248021">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.8100264">
+          <caret line="38" column="59" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
           <folding />
         </state>
       </provider>

@@ -1,5 +1,5 @@
 (function() {
-  angular.module('aHelper', ['ionic', 'ngCordova']).config(function($ionicConfigProvider, $stateProvider, $urlRouterProvider) {
+  angular.module('manoj', ['ionic', 'ngCordova', 'manoj.constants']).config(function($ionicConfigProvider, $stateProvider, $urlRouterProvider) {
     $stateProvider.state('tab', {
       url: '/tab',
       abstract: true,

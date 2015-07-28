@@ -4,8 +4,8 @@ html
     meta(charset='utf-8')
     meta(name='viewport', content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width")
 
-    link(href='css/ionic.app.css' rel='stylesheet')
-    link(href='css/style.css' rel='stylesheet')
+    each file in ['ionic.app', 'style']
+      link(href='css/'+file+'.css' rel='stylesheet')
 
     // Ionic/Angular
     script(src='lib/ionic/js/ionic.bundle.js')
@@ -19,11 +19,27 @@ html
     script(src='lib/moment/min/moment.min.js')
 
     // Main app js here
-    script(src='js/app.js')
+    each file in ['app', 'constants']
+      script(src='js/'+file+'.js')
 
-  body(ng-app='aHelper')
-    ion-pane
-      ion-header-bar.bar-stable
-        h1.title Dustbin App
+  body(ng-app='manoj')
 
-      ion-nav-view
+    //
+      ion-pane
+        ion-header-bar.bar-positive
+          h1.title Dustbin App
+
+        ion-nav-view
+    ion-side-menus
+
+      ion-side-menu(side='left')
+        ng-include(src='"templates/side.html"')
+
+      //
+        Notes: We need to use ion-nav-header and all of that
+      ion-side-menu-content
+        ion-header-bar.bar-positive
+          .primary-buttons
+            button.button.button-clear.icon.ion-navicon(menu-toggle)
+          h1.title Dustbin App
+        ion-nav-view              // Main ion-nav-view

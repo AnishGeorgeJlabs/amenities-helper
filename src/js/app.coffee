@@ -1,4 +1,6 @@
-angular.module('aHelper', ['ionic', 'ngCordova'])
+angular.module('manoj', ['ionic', 'ngCordova'
+  'manoj.constants'
+])
 
 .config ($ionicConfigProvider,
       $stateProvider, $urlRouterProvider) ->

@@ -1,7 +1,15 @@
 ion-view
-  ion-content
+  ion-content.has-header
     ion-refresher(pulling-text='Pull to refresh')
     ion-list
-      .list.list-inset
-        .item.item-text-wrap
-          | Sample Text for 1st tab
+      .list.card
+        .item.item-avatar-right
+          img(src='img/ionic.png')
+          h2 Some title
+          p The rest of the para
+          p Second para
+
+        .item.item-body
+          p This is the full text for the body part
+          p Second para
+          img(src='img/ionic.png').full-image
