@@ -1,4 +1,5 @@
 angular.module('aHelper', ['ionic', 'ngCordova'])
+
 .config ($ionicConfigProvider,
       $stateProvider, $urlRouterProvider) ->
   # $ionicConfigProvider.navBar.alignTitle('center')
@@ -8,8 +9,20 @@ angular.module('aHelper', ['ionic', 'ngCordova'])
     abstract: true
     templateUrl: 'templates/views/tabs.html'
   )
+  .state('tab.dustbin',
+    url: '/dustbin'
+    views:
+      'tab-dustbin':
+        templateUrl: 'templates/views/tab-dustbin.html'
+  )
+  .state('tab.toilet',
+    url: '/toilet'
+    views:
+      'tab-toilet':
+        templateUrl: 'templates/views/tab-toilet.html'
+  )
 
-  $urlRouterProvider.otherwise('/tab')
+  $urlRouterProvider.otherwise('/tab/dustbin')
 
 .run ($ionicPlatform) ->
   # Hide accessory bar by default, remove to show bar in form inputs
