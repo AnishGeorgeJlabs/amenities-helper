@@ -8,6 +8,7 @@
       Ionic Framework Team
     </author>
   <content src="index.html"/>
+  <allow-navigation href="http://45.55.72.208/manoj/*"></allow-navigation>
   <access origin="*"/>
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
