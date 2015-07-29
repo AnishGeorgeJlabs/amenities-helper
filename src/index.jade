@@ -32,16 +32,25 @@ html
           h1.title Dustbin App
 
         ion-nav-view
-    ion-side-menus
+    //
+      ion-side-menus
 
-      ion-side-menu(side='left')
-        ng-include(src='"templates/side.html"')
+        ion-side-menu(side='left')
+          ng-include(src='"templates/side.html"')
 
-      //
-        Notes: We need to use ion-nav-header and all of that
-      ion-side-menu-content
-        ion-header-bar.bar-positive
-          .primary-buttons
-            button.button.button-clear.icon.ion-navicon(menu-toggle)
-          h1.title Dustbin App
-        ion-nav-view              // Main ion-nav-view
+        //
+          Notes: We need to use ion-nav-header and all of that
+        ion-side-menu-content
+          ion-header-bar.bar-positive
+            .primary-buttons
+              button.button.button-clear.icon.ion-navicon(menu-toggle)
+            h1.title Dustbin App
+          ion-nav-view              // Main ion-nav-view
+    ion-slide-box(show-pager='false' does-continue='true')
+      ion-slide
+        div
+          h1 Box 1
+      ion-slide
+        div
+          h1 Box 2
+
