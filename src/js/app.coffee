@@ -4,27 +4,14 @@ angular.module('manoj', ['ionic', 'ngCordova'
 
 .config ($ionicConfigProvider,
       $stateProvider, $urlRouterProvider) ->
-  # $ionicConfigProvider.navBar.alignTitle('center')
+  $ionicConfigProvider.navBar.alignTitle('center')
   $stateProvider
-  .state('tab',
-    url: '/tab'
-    abstract: true
-    templateUrl: 'templates/views/tabs.html'
-  )
-  .state('tab.dustbin',
-    url: '/dustbin'
-    views:
-      'tab-dustbin':
-        templateUrl: 'templates/views/tab-dustbin.html'
-  )
-  .state('tab.toilet',
-    url: '/toilet'
-    views:
-      'tab-toilet':
-        templateUrl: 'templates/views/tab-toilet.html'
+  .state('main',
+    url: '/main'
+    templateUrl: 'templates/views/main.html'
   )
 
-  $urlRouterProvider.otherwise('/tab/dustbin')
+  $urlRouterProvider.otherwise('/main')
 
 .run ($ionicPlatform) ->
   # Hide accessory bar by default, remove to show bar in form inputs

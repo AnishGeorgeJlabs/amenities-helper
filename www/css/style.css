@@ -1,3 +1,9 @@
 /* We have app based overrides here */
+/*
+$RobotoDraftFontPath: "../fonts"; // REMINDER: edit as appropriate!
+$RobotoDraftFontName: "RobotoDraft";
+$RobotoDraftFontVersion: "1.0.0";
+
+@import "www/lib/robotodraft/sass/robotodraft.scss"; */
 .slide {
-  height: 100vh; }
+  height: 100%; }
