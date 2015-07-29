@@ -6,19 +6,20 @@ html
     meta(http-equiv='Content-Security-Policy' content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' http://localhost:35729")
     title Dustbin App
 
-    each file in ['ionic.app', 'style']
-      link(href='css/'+file+'.css' rel='stylesheet')
+    each file in ['css/ionic.app', 'lib/ionic-material/dist/ionic.material.min', 'css/style']
+      link(href=file+'.css' rel='stylesheet')
 
-    // Ionic/Angular
-    script(src='lib/ionic/js/ionic.bundle.js')
+    // Ionic libs
+    each file in [ 'ionic/js/ionic.bundle', 'ionic-material/dist/ionic.material.min']
+      script(src='lib/'+file+'.js')
 
-    // cordova js, 404 during Dev
-    script(src='lib/ngCordova/dist/ng-cordova.min.js')
-    script(src='cordova.js')
+    // Cordova
+    each file in [ 'lib/ngCordova/dist/ng-cordova.min', 'cordova']
+      script(src=file+'.js')
 
-    // Additional Libraries
-    script(src='lib/underscore/underscore-min.js')
-    script(src='lib/moment/min/moment.min.js')
+    // Additional libs
+    each file in [ 'underscore/underscore-min', 'moment/min/moment.min' ]
+      script(src='lib/'+file+'.js')
 
     // Main app js here
     each file in ['app', 'constants']
